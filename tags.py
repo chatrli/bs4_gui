@@ -95,3 +95,17 @@ css_selectors = [
     'id',
     'class'
 ]
+
+filters = [
+    'find_all',
+    'find',
+    'find_parents',
+    'find_parent',
+    'find_previous_siblings',
+    'find_next_siblings',
+    'find_previous_sibling',
+    'find_next_sibling',
+    'find_all_next',
+    'find_all_previous',
+    'find_all_next'
+]
