@@ -28,7 +28,7 @@ The GUI is designed to be user-friendly and intuitive. Follow the steps below to
 
 Here is a screenshot of the application:
 
-![Screenshot](Screenshot%202023-08-19%20at%2009.34.08.png)
+![Screenshot](medias/Screenshot%202023-08-19%20at%2009.34.08.png)
 
 ## Operating Systems
 
