@@ -20,8 +20,6 @@ Ensure that Python 3.x is installed on your system.
 ## How to Use
 
 The GUI is designed to be light. Follow the steps below to begin scraping:
-![Screenshot](medias/Screenshot%202023-08-19%20at%2009.34.08.png)
-
 1. Enter the URL of the webpage you want to scrape.
 2. Select the desired filter and option.
 3. Click the "SCRAP" button to initiate the scraping process.
